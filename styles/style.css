@@ -14,6 +14,7 @@
   width: 228px;
   height: 32px;
 }
+
 .logo_place_header {
   position: absolute;
   top: 30px;
@@ -41,6 +42,7 @@
   max-width: 730px;
   z-index: 2;
 }
+
 .header__subtitle {
   margin: 0;
   position: absolute;
@@ -53,10 +55,12 @@
   color: #000;
   z-index: 2;
 }
+
 .header__link {
   text-decoration: none;
   color: #2f80ed;
 }
+
 .header__main-illustration {
   position: absolute;
   right: 0;
@@ -66,6 +70,7 @@
   z-index: 1;
   object-fit: fill;
 }
+
 .header__square-pic {
   position: absolute;
   top: 64px;
@@ -80,12 +85,13 @@
   display: flex;
   justify-content: center;
 }
+
 .two-columns {
   width: 80%;
   display: flex;
   justify-content: space-between;
-
 }
+
 .two-columns__brief {
   margin: 0;
   max-width: 175px;
@@ -94,10 +100,12 @@
   font-weight: normal;
   color: #2f80ed;
 }
+
 .two-columns__main-text {
   min-width: 784px;
   width: 80%;
 }
+
 .two-columns__paragraph {
   margin: 0;
   padding-bottom: 30px;
@@ -106,9 +114,11 @@
   font-weight: normal;
   color: #000;
 }
+
 .two-columns__paragraph:nth-child(3) {
   padding-bottom: 0;
 }
+
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
@@ -128,6 +138,7 @@
   text-align: center;
   color: #000;
 }
+
 .section-title_theme_dark {
   position: relative;
   color: #fff;
@@ -143,6 +154,7 @@
   text-align: center;
   padding-top: 20px;
 }
+
 .section-subtitle_theme_dark {
   position: relative;
   color: #fff;
@@ -164,6 +176,7 @@
   color:#000;
   list-style-type: none;
 }
+
 .table__cell_theme_dark {
   width: 200px;
   color: #fff;
@@ -194,6 +207,7 @@
   background-repeat: no-repeat;
   background-size: 867px 637px;
 }
+
 .feynman__title {
   padding-top: 100px;
   font-size: 120px;
@@ -203,6 +217,7 @@
   max-width: 648px;
   margin: 0 auto;
 }
+
 .feynman__subtitle {
   padding-top: 70px;
   font-size: 36px;
@@ -212,6 +227,7 @@
   text-align: center;
   margin: 0 auto;
 }
+
 .feynman__link {
   position: absolute;
   text-decoration: none;
@@ -232,6 +248,7 @@
   overflow: hidden;
 
 }
+
 .kaufman__triangle {
   position: absolute;
   width: 877px;
@@ -261,6 +278,7 @@
   display: flex;
   flex-direction: column;
 }
+
 .footer__column_content_copyright {
   flex-basis: 711px;
   justify-content: space-between;
@@ -278,14 +296,15 @@
   line-height: 30px;
   font-weight: 600;
   color:#fff;
-
 }
+
 .footer__column-links {
   margin: 0;
   padding: 20px 0 16px 0;
   color:#fff;
   list-style-type: none;
 }
+
 .footer__column-link {
   font-size: 18px;
   line-height: 30px;
