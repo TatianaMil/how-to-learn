@@ -1,4 +1,4 @@
-.khan__bye-link {
+.khan__buy-link {
   max-height: 40px;
   font-size: 30px;
   line-height: 42px;
@@ -8,6 +8,6 @@
   transition: .7s all;
 }
 
-.khan__bye-link:hover {
+.khan__buy-link:hover {
   opacity: .6;
 }
