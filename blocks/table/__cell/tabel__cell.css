@@ -1,0 +1,13 @@
+.table__cell {
+  width: 250px;
+  padding-top: 60px;
+  color:#000;
+  list-style-type: none;
+}
+
+.table__cell_theme_dark {
+  width: 200px;
+  color: #fff;
+  padding-top: 80px;
+  z-index: 2;
+}
