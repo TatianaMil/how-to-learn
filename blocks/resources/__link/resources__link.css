@@ -1,9 +1,9 @@
-.resource__link {
+.resources__link {
   max-width: 270px;
   max-height: 28px;
   transition: .7s all;
 }
 
-.resource__link:hover {
+.resources__link:hover {
   opacity: .6;
 }
